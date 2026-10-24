@@ -1,0 +1,14 @@
+{
+  "id": "./index.html",
+  "name": "Date Night Decider",
+  "short_name": "Date Night",
+  "description": "Two Players, Zero Guesswork",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0610",
+  "theme_color": "#0b0610",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
